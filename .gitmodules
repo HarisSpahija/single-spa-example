@@ -1,0 +1,3 @@
+[submodule "single-spa-root"]
+	path = single-spa-root
+	url = https://github.com/HarisSpahija/single-spa-root
