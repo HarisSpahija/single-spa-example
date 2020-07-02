@@ -1,3 +1,6 @@
 [submodule "single-spa-root"]
 	path = single-spa-root
 	url = https://github.com/HarisSpahija/single-spa-root
+[submodule "single-spa-navbar"]
+	path = single-spa-navbar
+	url = https://github.com/HarisSpahija/single-spa-navbar
