@@ -4,3 +4,6 @@
 [submodule "single-spa-navbar"]
 	path = single-spa-navbar
 	url = https://github.com/HarisSpahija/single-spa-navbar
+[submodule "single-spa-shared-dependencies"]
+	path = single-spa-shared-dependencies
+	url = https://github.com/HarisSpahija/single-spa-shared-dependencies
